@@ -1,2 +1,7 @@
-# Python-port-scanner
-Simple TCP port scanner written in Python for educational purposes. 
+# Python Port Scanner
+
+Simple TCP port scanner written in Python.
+
+## Usage
+```bash
+python3 portscan.py
